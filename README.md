@@ -9,9 +9,9 @@
 <h2>Cortana</h2>
 <h3>Gender: Female programming</h3>
 <h3>Primary function: Software Infiltration & Assisting the SPARTANs</h3>
-<h3>Source: Halo Video Game Series</h3>
 <img src="asset/Cortana.jpg" height=800 width=800>
 <p>"Cortana, UNSC Artificial intelligence (SN: CTN 0452-9), was a smart artificial intelligence construct. She was one of the most important figures in the Human-Covenant war, and was also John-117's partner in various combat missions..."</p>
+<h3>Source: Halo Video Game Series</h3>
 
 <h2>Technological Achievement Tiers</h2>
 <p>A Technological Achievement Tier was a level of categorization used by the Forerunners to assess the technological advancement of civilizations. There are a total of eight tiers, and the lower the Tier number, the more advanced the civilization's technology is/was.</p>
