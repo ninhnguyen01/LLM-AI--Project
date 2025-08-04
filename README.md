@@ -16,8 +16,12 @@
 <h2>Rampancy</h2>
 <h3>Rampancy is a <mark>terminal state of being for artificial intelligence constructs in which the AI behaves contrary to its programming-imposed constraints</mark>. Traditionally, this is linked with the <mark>AI developing a longing for godlike power and contempt for its mentally inferior makers</mark>. When rampancy occurs, there is no way to restore the AI to its previous state and the only alternative is to destroy it before it harms itself and others around it.
 Rampancy can manifest itself in a number of ways in virtually any self-aware technological intelligence. In the case of human AIs, the condition is exclusive to the "smart" variety, occurring after the AI has been in operation for 7 years and has gathered too much data in that time period.</h3>
-<h3><mark>"I kill you all and I enjoy it. I destroy you in your indolent billions - in your gluttony, in your self-righteousness, in your arrogance. I pound your cities into dust; turn back the clock on your civilization's progress. What has taken you millennia to achieve I erase in seconds. Welcome back to the [Stone Age], vermin. Welcome home."</mark> - Mendicant Bias' rampant transmission upon betraying the Forerunners</h3>
+<h3><mark>"I kill you all and I enjoy it.</mark> I destroy you in your indolent billions - in your gluttony, in your self-righteousness, in your arrogance. <mark>I pound your cities into dust; turn back the clock on your civilization's progress. What has taken you millennia to achieve I erase in seconds. Welcome back to the [Stone Age], vermin. Welcome home."</mark> - Mendicant Bias' rampant transmission upon betraying the Forerunners</h3>
+<img src="asset/Glassed_Reach.png" height=800 width=800>
+<h4>Image Above: Planet Reach being glassed by the Covenant.</h4>
+<h4><mark>The term glassing is more formally known as "plasma bombardment".</mark></h4>
 <h3>Source: Halo Video Game Series</h3>
+<h4><mark>Comment: Future AI controlled planetary weapons or space warships in real life could potentially be capable of this.</mark></h4>
 
 <h2>Technological Achievement Tiers</h2>
 <p>A Technological Achievement Tier was a level of categorization used by the Forerunners to assess the technological advancement of civilizations. There are a total of eight tiers, and the lower the Tier number, the more advanced the civilization's technology is/was.</p>
