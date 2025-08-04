@@ -1,0 +1,39 @@
+AI Model:
+
+RAG (Retrieval Augmentation Generation):
+Query -> Model -> Vector Embedding
+
+Features:
+
+Pro
+- Up to data 
+- domain specific
+
+Con
+- performance
+- processing
+
+Fine-tuning:
+existing model -> focused
+
+Features:
+
+Pro
+- deep domain exp
+- faster
+
+Con
+- training comp
+- comp 
+- cost
+- maint
+
+Promp Engineering:
+
+Pro
+- no infra change
+- immediate result
+
+Con
+- trial + error
+- limited to exist knowledge

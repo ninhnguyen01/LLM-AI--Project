@@ -1,0 +1,9 @@
+Manage agents and workflow
+
+Process Input:
+
+Add Task (node)
+Complete Task (node)
+Summarize (node)
+
+State (maintain node)

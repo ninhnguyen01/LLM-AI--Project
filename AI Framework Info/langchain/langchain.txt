@@ -1,0 +1,12 @@
+Build apps with llm.
+
+Feature:
+- Abstractions
+- LLM support
+- Prompts
+- Chains
+- Indexes
+- Memory
+- Agents
+
+Retrieve (text splitter & doc loader) -> Summarize (Prompt LLM) -> Answer (Memory)
