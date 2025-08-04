@@ -30,8 +30,8 @@ Rampancy can manifest itself in a number of ways in virtually any self-aware tec
 <p>Tier 6 is the outset for massive urbanization. Agrarian societies can remain stable in the pre-industrial stage, but Tier 6 population strain and mechanized food production invariably create political and economic pressures very few can balance. Moving past this usually promises advancement. Some societies improve environmental and medical understanding concurrently with mechanical and transport advancement. Those that do not are frequently doomed. Humanity stood on this level from the late 18th to the mid-20th century. </p>
 <h3>Tier 5: Atomic Age</h3>
 <p>Tier 5 species usually begin focusing on clean energy production. The occasional belligerent species will use atomic energy for weapons, often resulting in mass extinctions. In-atmosphere craft are a hallmark, often leading to manned space flight, albeit in a short-scale. Humanity entered this age in 1945, when the first atomic bombs were dropped on Hiroshima and Nagasaki in Japan.</p>
-<h3>Tier 4: Space Age</h3>
-<p>Tier 4 is often the final resting place for species intelligent enough to break free from their cradle's surface only to fill the gulf surrounding it with war. Their comfort-focused technology can include medical advances.</p>
+<h3>Tier 4: Space Age (Current - real life)</h3>
+<p>Tier 4 is often the final resting place for <mark>species intelligent enough to break free from their cradle's surface only to fill the gulf surrounding it with war</mark>. Their comfort-focused technology can include medical advances.</p>
 <h3>Tier 3: Space-Faring</h3>
 <p>Species has efficient slipspace navigation, mass drivers, asynchronous linear-induction weapons, holocrystal storage and semi-sentient AI—though their creation requires memory transfer from the freshly deceased and/or flash cloning. They have had no outside influence.</p>
 <h3>Tier 2: Interstellar</h3>
