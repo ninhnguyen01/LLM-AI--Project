@@ -18,7 +18,6 @@
 Rampancy can manifest itself in a number of ways in virtually any self-aware technological intelligence. In the case of human AIs, the condition is exclusive to the "smart" variety, occurring after the AI has been in operation for 7 years and has gathered too much data in that time period.</h3>
 <h3><mark>"I kill you all and I enjoy it.</mark> I destroy you in your indolent billions - in your gluttony, in your self-righteousness, in your arrogance. <mark>I pound your cities into dust; turn back the clock on your civilization's progress. What has taken you millennia to achieve I erase in seconds. Welcome back to the [Stone Age], vermin. Welcome home."</mark> - Mendicant Bias' rampant transmission upon betraying the Forerunners</h3>
 <img src="asset/Glassed_Reach.png" height=800 width=800>
-<h4>Image Above: Planet Reach being glassed by the Covenant.</h4>
 <h4><mark>The term glassing is more formally known as "plasma bombardment".</mark></h4>
 <h3>Source: Halo Video Game Series</h3>
 <h4><mark>Comment: Future AI controlled planetary weapons or space warships in real life could potentially be capable of technological manipulation (with or without human command) and rampancy.</mark></h4>
