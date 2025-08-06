@@ -20,7 +20,7 @@ Rampancy can manifest itself in a number of ways in virtually any self-aware tec
 <img src="asset/Glassed_Reach.png" height=800 width=800>
 <h4><mark>Image of glassing, also more formally known as "plasma bombardment".</mark></h4>
 <h3>Source: Halo Video Game Series</h3>
-<h4><mark>Comment: Future AI controlled weapons (civlian or military related) in real life could potentially be capable of mass destruction (with or without human command) through rampancy.</mark></h4>
+<h4><mark>Comment: Future AI controlled weapons (civlian or military related) in real life could potentially be capable of mass destruction through rampancy.</mark></h4>
 
 <h2>Technological Achievement Tiers</h2>
 <p>A Technological Achievement Tier was a level of categorization used by the Forerunners to assess the technological advancement of civilizations. There are a total of eight tiers, and the lower the Tier number, the more advanced the civilization's technology is/was.</p>
