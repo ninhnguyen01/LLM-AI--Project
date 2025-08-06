@@ -34,6 +34,10 @@ Rampancy can manifest itself in a number of ways in virtually any self-aware tec
 <p>Tier 4 is often the final resting place for <mark>species intelligent enough to break free from their cradle's surface only to fill the gulf surrounding it with war</mark>. Their comfort-focused technology can include medical advances.</p>
 <p><mark>"Ten thousand years ago, humans had fought a war against Forerunners — and lost. The centers of human civilization had been dismantled and the humans themselves devolved and shattered into many forms, some said as punishment — but more likely because they were a naturally violent species."</mark>
     — Bornstellar Makes Eternal Lasting (Source: Halo Video Game Series)</p>
+<p>Comment: The character is alluding to this (below) through "force de-evolution" into multiple subspecies as a result of defeat in war (unconditional surrender).</p>
+<img src="asset/Hominidae.jpg" height=500>
+<p>Image: All extant species of hominid: Top) Human, Middle) Common chimpanzee, bonobo, western gorilla & eastern gorilla, Bottom) Bornean, Sumatran & Tapanuli orangutan</p>
+<p>Image Source: Wikimedia Commons</p>
 <h3>Tier 3: Space-Faring</h3>
 <p>Species has efficient slipspace navigation, mass drivers, asynchronous linear-induction weapons, holocrystal storage and semi-sentient AI—though their creation requires memory transfer from the freshly deceased and/or flash cloning. They have had no outside influence.</p>
 <h3>Tier 2: Interstellar</h3>
