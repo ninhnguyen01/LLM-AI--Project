@@ -18,9 +18,9 @@
 Rampancy can manifest itself in a number of ways in virtually any self-aware technological intelligence. In the case of human AIs, the condition is exclusive to the "smart" variety, occurring after the AI has been in operation for 7 years and has gathered too much data in that time period.</h3>
 <h3><mark>"I kill you all and I enjoy it.</mark> I destroy you in your indolent billions - in your gluttony, in your self-righteousness, in your arrogance. <mark>I pound your cities into dust; turn back the clock on your civilization's progress. What has taken you millennia to achieve I erase in seconds. Welcome back to the [Stone Age], vermin. Welcome home."</mark> - Mendicant Bias' rampant transmission upon betraying the Forerunners</h3>
 <img src="asset/Glassed_Reach.png" height=800 width=800>
-<h4><mark>The term glassing is more formally known as "plasma bombardment".</mark></h4>
+<h4><mark>Image of glassing, also more formally known as "plasma bombardment".</mark></h4>
 <h3>Source: Halo Video Game Series</h3>
-<h4><mark>Comment: Future AI controlled planetary weapons or space warships in real life could potentially be capable of technological manipulation (with or without human command) and rampancy.</mark></h4>
+<h4><mark>Comment: Future AI controlled weapons (civlian or military related) in real life could potentially be capable of mass destruction (with or without human command) through rampancy.</mark></h4>
 
 <h2>Technological Achievement Tiers</h2>
 <p>A Technological Achievement Tier was a level of categorization used by the Forerunners to assess the technological advancement of civilizations. There are a total of eight tiers, and the lower the Tier number, the more advanced the civilization's technology is/was.</p>
@@ -30,8 +30,10 @@ Rampancy can manifest itself in a number of ways in virtually any self-aware tec
 <p>Tier 6 is the outset for massive urbanization. Agrarian societies can remain stable in the pre-industrial stage, but Tier 6 population strain and mechanized food production invariably create political and economic pressures very few can balance. Moving past this usually promises advancement. Some societies improve environmental and medical understanding concurrently with mechanical and transport advancement. Those that do not are frequently doomed. Humanity stood on this level from the late 18th to the mid-20th century. </p>
 <h3>Tier 5: Atomic Age</h3>
 <p>Tier 5 species usually begin focusing on clean energy production. The occasional belligerent species will use atomic energy for weapons, often resulting in mass extinctions. In-atmosphere craft are a hallmark, often leading to manned space flight, albeit in a short-scale. Humanity entered this age in 1945, when the first atomic bombs were dropped on Hiroshima and Nagasaki in Japan.</p>
-<h3>Tier 4: Space Age (Current - real life)</h3>
+<h3>Tier 4: Space Age (Comparable to real life)</h3>
 <p>Tier 4 is often the final resting place for <mark>species intelligent enough to break free from their cradle's surface only to fill the gulf surrounding it with war</mark>. Their comfort-focused technology can include medical advances.</p>
+<p><mark>"Ten thousand years ago, humans had fought a war against Forerunners — and lost. The centers of human civilization had been dismantled and the humans themselves devolved and shattered into many forms, some said as punishment — but more likely because they were a naturally violent species."</mark>
+    — Bornstellar Makes Eternal Lasting (Source: Halo Video Game Series)</p>
 <h3>Tier 3: Space-Faring</h3>
 <p>Species has efficient slipspace navigation, mass drivers, asynchronous linear-induction weapons, holocrystal storage and semi-sentient AI—though their creation requires memory transfer from the freshly deceased and/or flash cloning. They have had no outside influence.</p>
 <h3>Tier 2: Interstellar</h3>
